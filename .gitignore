@@ -1,0 +1,18 @@
+# Ignorar entornos virtuales
+venv/
+*.pyc
+__pycache__/
+
+# Ignorar archivos de configuración de IDEs como VSCode
+.vscode/
+
+# Ignorar archivos de configuración de JetBrains
+.idea/
+
+# Ignorar archivos de configuración de sistemas de contenedores (Docker)
+Dockerfile
+.dockerignore
+
+# Ignorar archivos temporales y de logs
+*.log
+*.tmp
